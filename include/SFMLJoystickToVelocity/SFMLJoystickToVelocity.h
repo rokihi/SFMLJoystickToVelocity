@@ -252,6 +252,12 @@ class SFMLJoystickToVelocity
    * - DefaultValue: 0
    */
   int m_xIndex;
+  /*!
+   * 
+   * - Name:  thIndex
+   * - DefaultValue: 1
+   */
+  int m_thIndex;
 
   // </rtc-template>
 
